@@ -5,6 +5,6 @@
 ## Complete problems
 
 ## Problems in progress
-* 1. Two Sum
-* 36. Valid Suddoku
-* 53. Maximum Subarray
+### 1. Two Sum
+### 36. Valid Suddoku
+### 53. Maximum Subarray
