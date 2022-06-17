@@ -2,7 +2,7 @@
 
 ## My personal repo for LeetCode problems. View them by problem name and checking the respective folder.
 
-## Complete problems
+## Completed problems
 ### 1. Two Sum
 ### 9. Palindrome Number
 ### 13. Roman to Integer
