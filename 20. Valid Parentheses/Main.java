@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("20. Valid Parentheses(solution1)");
+        System.out.println("20. Valid Parentheses (solution1)");
         Solution1 slt1 = new Solution1();
         String s1 = "()";
         System.out.println("s1 = " + s1);
