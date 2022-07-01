@@ -10,9 +10,9 @@
 ### 20. Valid Parentheses
 ### 21. Merge Two Sorted Lists
 ### 26. Remove Duplicates from Sorted Array
+### 27. Remove Element
 
 ## Problems in progress
-### 27. Remove Element
 ### 28. Implement strStr()
 ### 35. Search Insert Position
 ### 53. Maximum Subarray
